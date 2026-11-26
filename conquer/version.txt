@@ -5,5 +5,5 @@ sha256=b43664b0b84d4ade6d4a231313e64660974d1de8511b651d087ff79b3a532840
 exe_sha256=d00e3bfce9f4c34ec4a3f0a3efc340a7a252445a110aa89a863e6f2e8e5b3c36
 note=Server picker + ms clock (game 3123).
 setup_build=2026112702
-setup_url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/conquer/Conquer_Setup.exe
+setup_url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/conquer/Conquer_Setup_2026112702.exe
 setup_sha256=00f6f4ecb9926e7056daeb2572ca6365b34a41be769dad96f982ba4d232f6026
