@@ -1,4 +1,4 @@
-build=2026112602
-url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/koi/KOI_2026112602.zip
-sha256=02b63ba8589478de894c9bae7e95288b8d2157457e47b8b67eaa043697c61e18
-note=Automatic update; fix for cards lost when the account or server name was misread.
+build=2026112603
+url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/koi/KOI_2026112603.zip
+sha256=ebcc81163456909c34bc31e8404d6501a1e1f6732100f3cf0299d239a9ccb271
+note=Update window shows every step; automatic update.
