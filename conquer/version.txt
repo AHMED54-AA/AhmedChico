@@ -1,0 +1,6 @@
+build=2026112701
+client=3123
+url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/conquer/Conquer_2026112701.zip
+sha256=b43664b0b84d4ade6d4a231313e64660974d1de8511b651d087ff79b3a532840
+exe_sha256=d00e3bfce9f4c34ec4a3f0a3efc340a7a252445a110aa89a863e6f2e8e5b3c36
+note=Server picker + ms clock (game 3123).
