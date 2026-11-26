@@ -1,0 +1,4 @@
+build=2026112601
+url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/koi/KOI_2026112601.zip
+sha256=78c35d75d64dc12e3e300bfe1620d8ed5f24dd09b0064b4b19906e7fe56d1aeb
+note=Fix: cards lost when the account or server name was misread; self-update button.
