@@ -1,4 +1,4 @@
-build=2026112603
-url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/koi/KOI_2026112603.zip
-sha256=ebcc81163456909c34bc31e8404d6501a1e1f6732100f3cf0299d239a9ccb271
-note=Update window shows every step; automatic update.
+build=2026112604
+url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/koi/KOI_2026112604.zip
+sha256=f6f55d165e31b09401291198dad8d3e698fab117dd60b07f4cbef1cc7218e68f
+note=New update window; KOI updates before it opens.
