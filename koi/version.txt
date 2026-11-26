@@ -1,4 +1,4 @@
-build=2026112607
-url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/koi/KOI_2026112607.zip
-sha256=82d05d512db6631d4e40eb073986669b8a8a00587f0311665a981b2638718629
-note=Cards filed under a wrong server by old KOI are no longer shown.
+build=2026112608
+url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/koi/KOI_2026112608.zip
+sha256=bb9ef07d8ac356eddcbda815f91694eff8ab6ba2bfdbbee7159d7d06fc51942a
+note=Cards list right after switching account goes to the right account.
