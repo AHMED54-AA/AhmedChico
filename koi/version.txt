@@ -1,4 +1,4 @@
-build=2026112605
-url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/koi/KOI_2026112605.zip
-sha256=27a8dfe67a32dd02247884e998c5950f5af254a7818c014a44f7de2128245ba1
-note=New look for the simple results page.
+build=2026112606
+url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/koi/KOI_2026112606.zip
+sha256=5b7af41c0cc66e8bc1075944634b589671960d5a2163a6fe815160ef6db47412
+note=Team sharing: a failed send is retried, so no account stays at 1 card.
