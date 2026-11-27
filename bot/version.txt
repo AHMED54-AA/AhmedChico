@@ -1,7 +1,7 @@
-ks_build=2026112704
-ks_url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/bot/KingSlayer_2026112704.zip
-ks_sha256=cfbdd6a2c9dca7f7c2c3baa26754fb58c9feba7746ce8ac1f985cf5aaff293f4
+ks_build=2026112705
+ks_url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/bot/KingSlayer_2026112705.zip
+ks_sha256=3388e66d554fa75ca37ab46b811619612f8c8792164293ed562e52e65c4141e5
 cq_build=2026112701
 cq_url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/bot/Conquer_2026112701.zip
 cq_sha256=aab16b60fff569cce9340a120474230934949b10a1f4599e969f7c22a9f4571c
-note=Update no longer reopens KingSlayer mid-install (auto-restart watchdog now disarmed by both the program and the launcher), plus the account-manager blank-page-storm fix.
+note=One KingSlayer at a time (a second copy focuses the open one and exits), update no longer reopens the program mid-install, and the account-manager blank-page-storm fix.
