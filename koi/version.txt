@@ -1,4 +1,4 @@
-build=2026112608
-url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/koi/KOI_2026112608.zip
-sha256=bb9ef07d8ac356eddcbda815f91694eff8ab6ba2bfdbbee7159d7d06fc51942a
-note=Cards list right after switching account goes to the right account.
+build=2026112701
+url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/koi/KOI_2026112701.zip
+sha256=57bc479d7cb328b977e6630b1149321dd333202214cd839cc2211f185fddadd3
+note=Claims now scout the last 1.5 s before the minute, so an early opening is not missed.
