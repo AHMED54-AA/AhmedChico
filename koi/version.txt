@@ -1,4 +1,4 @@
-build=2026112701
-url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/koi/KOI_2026112701.zip
-sha256=57bc479d7cb328b977e6630b1149321dd333202214cd839cc2211f185fddadd3
-note=Claims now scout the last 1.5 s before the minute, so an early opening is not missed.
+build=2026112702
+url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/koi/KOI_2026112702.zip
+sha256=fe53cac83e5b1778329dac71e98c0d7b6b35e7d871775d339053c4ef1d3ff7cf
+note=Scout the 1.5 s before the minute, capped at 48 fast claims.
