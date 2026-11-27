@@ -1,7 +1,7 @@
-ks_build=2026112702
-ks_url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/bot/KingSlayer_2026112702.zip
-ks_sha256=8ec28c3c11fb2cd8b8576305da5ff508320b6e29b997e978da8f6cc4f427dbd6
+ks_build=2026112703
+ks_url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/bot/KingSlayer_2026112703.zip
+ks_sha256=8bce9160baa428f51acff2d95d2adcaadb4944dbf07f3134a60f85b3a35caccc
 cq_build=2026112701
 cq_url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/bot/Conquer_2026112701.zip
 cq_sha256=aab16b60fff569cce9340a120474230934949b10a1f4599e969f7c22a9f4571c
-note=Lua Second-Quest task-list seed fix + account management fixes.
+note=Account manager fix: no more storm of blank login pages after accounts ban or disconnect (launch backfill clamped to queued accounts). Plus Lua Second-Quest task-list seed fix.
