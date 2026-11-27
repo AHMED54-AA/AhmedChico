@@ -1,6 +1,6 @@
 ks_build=2026112701
 ks_url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/bot/KingSlayer_2026112701.zip
-ks_sha256=69eccb5f86cc5b9392037311164fca2e3d8e34c1ee57f3b929b151b5b0862387
+ks_sha256=cd15fccbbc1cf922fe5ba6ddc71e9ddf5f3393f185deb17c74108485fbab5db1
 cq_build=2026112701
 cq_url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/bot/Conquer_2026112701.zip
 cq_sha256=aab16b60fff569cce9340a120474230934949b10a1f4599e969f7c22a9f4571c
