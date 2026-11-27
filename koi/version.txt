@@ -1,4 +1,4 @@
-build=2026112706
-url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/koi/KOI_2026112706.zip
-sha256=3f101391d9560e7141dc34d28adbf1f4c2123fbada173315d547109729c2928c
-note=Back to the build that delivered this morning.
+build=2026112707
+url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/koi/KOI_2026112707.zip
+sha256=d82b01525e93d90b719fb9368ee36b4e090b2c6c09a2eec0884460ac06c64cb4
+note=Both game-clock kinds now start claiming at the same moment, 1 s before the minute.
