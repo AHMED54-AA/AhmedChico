@@ -1,4 +1,4 @@
-build=2026112702
-url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/koi/KOI_2026112702.zip
-sha256=fe53cac83e5b1778329dac71e98c0d7b6b35e7d871775d339053c4ef1d3ff7cf
-note=Scout the 1.5 s before the minute, capped at 48 fast claims.
+build=2026112704
+url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/koi/KOI_2026112704.zip
+sha256=2aa7bc1f8cdbcce4d245805f60a972cc623158ac5f9cd5f34d109ee08f09094a
+note=Catches an opening that comes before the whole minute; delivery speed unchanged.
