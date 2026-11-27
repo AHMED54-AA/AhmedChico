@@ -1,7 +1,7 @@
-ks_build=2026112706
-ks_url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/bot/KingSlayer_2026112706.zip
-ks_sha256=b2f53bdf66d265776fc3150369a1f87fb65dbc4e7e9f631a0b413edce31dd827
+ks_build=2026112801
+ks_url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/bot/KingSlayer_2026112801.zip
+ks_sha256=7f189cadf8bab2512380554916319e9c93acaf0858d9ea6cba23803dd04d9ddd
 cq_build=2026112701
 cq_url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/bot/Conquer_2026112701.zip
 cq_sha256=aab16b60fff569cce9340a120474230934949b10a1f4599e969f7c22a9f4571c
-note=Leveling no longer re-sends a wear the server refuses (the UseItem flood), Auto Repair stops running an extra pass per config push, Auto Hunt no longer reports a false "signature not present yet", and the DC watch names the account and how long the page lived.
+note=The Second Quest script now sends the right dialogue button, verifies the NPC it talks to and says which NPCs are really nearby when it cannot find one, and says why it reads no quest status. A hunt configured with noMove = true now holds its tile and swings only at what reaches it.
