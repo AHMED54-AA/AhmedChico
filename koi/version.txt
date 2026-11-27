@@ -1,4 +1,4 @@
-build=2026112704
-url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/koi/KOI_2026112704.zip
-sha256=2aa7bc1f8cdbcce4d245805f60a972cc623158ac5f9cd5f34d109ee08f09094a
-note=Catches an opening that comes before the whole minute; delivery speed unchanged.
+build=2026112706
+url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/koi/KOI_2026112706.zip
+sha256=3f101391d9560e7141dc34d28adbf1f4c2123fbada173315d547109729c2928c
+note=Back to the build that delivered this morning.
