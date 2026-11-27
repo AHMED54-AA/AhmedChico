@@ -1,0 +1,7 @@
+ks_build=2026112701
+ks_url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/bot/KingSlayer_2026112701.zip
+ks_sha256=e135fa4356b45ed3126194c7220cbd91e13d38bf188291389ecb6eeffbc8489e
+cq_build=2026112701
+cq_url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/conquer/Conquer_2026112701.zip
+cq_sha256=b43664b0b84d4ade6d4a231313e64660974d1de8511b651d087ff79b3a532840
+note=First KingSlayer build with in-program updates + account management fixes.
