@@ -1,7 +1,7 @@
-ks_build=2026112705
-ks_url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/bot/KingSlayer_2026112705.zip
-ks_sha256=3388e66d554fa75ca37ab46b811619612f8c8792164293ed562e52e65c4141e5
+ks_build=2026112706
+ks_url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/bot/KingSlayer_2026112706.zip
+ks_sha256=b2f53bdf66d265776fc3150369a1f87fb65dbc4e7e9f631a0b413edce31dd827
 cq_build=2026112701
 cq_url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/bot/Conquer_2026112701.zip
 cq_sha256=aab16b60fff569cce9340a120474230934949b10a1f4599e969f7c22a9f4571c
-note=One KingSlayer at a time (a second copy focuses the open one and exits), update no longer reopens the program mid-install, and the account-manager blank-page-storm fix.
+note=Leveling no longer re-sends a wear the server refuses (the UseItem flood), Auto Repair stops running an extra pass per config push, Auto Hunt no longer reports a false "signature not present yet", and the DC watch names the account and how long the page lived.
