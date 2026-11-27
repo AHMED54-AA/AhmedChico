@@ -1,10 +1,12 @@
 ks_build=2026112803
 ks_url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/bot/KingSlayer_2026112803.zip
 ks_sha256=d8230dff8588c1d2b57e315213027be72ba87da8c1a5a44cadd18f2857205387
+ks_exe_sha256=bb10e3844c839b9f20b7f3e330e907e6fbb3d4e13a74844519c1de6692dd1160
 cq_build=2026112801
 cq_url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/bot/Conquer_2026112801.zip
 cq_sha256=3266106b6d10315726103430f8609dee160d521934589604e7d8eed71b9cd3d8
-setup_build=2026112801
-setup_url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/bot/Bot_Setup_2026112801.exe
-setup_sha256=6b246411cee4205574a180f0213ccfd08d3e6a0148691d273957d928324f6356
-note=Bot Setup now installs its own updates before anything else, straight from GitHub.
+cq_exe_sha256=a625d98ed09e8529736ad6ca2a1b49ce2f65bae73e228b8490c9bdc8c71113be
+setup_build=2026112802
+setup_url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/bot/Bot_Setup_2026112802.exe
+setup_sha256=5434927470aba4e830b248d16b124fb6e212f9acdf5dfb9eb55980826af920f7
+note=Bot Setup now sees what is already installed: it only offers an update when the folder really holds an older build, and says "up to date" otherwise.
