@@ -1,7 +1,7 @@
-ks_build=2026112703
-ks_url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/bot/KingSlayer_2026112703.zip
-ks_sha256=8bce9160baa428f51acff2d95d2adcaadb4944dbf07f3134a60f85b3a35caccc
+ks_build=2026112704
+ks_url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/bot/KingSlayer_2026112704.zip
+ks_sha256=cfbdd6a2c9dca7f7c2c3baa26754fb58c9feba7746ce8ac1f985cf5aaff293f4
 cq_build=2026112701
 cq_url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/bot/Conquer_2026112701.zip
 cq_sha256=aab16b60fff569cce9340a120474230934949b10a1f4599e969f7c22a9f4571c
-note=Account manager fix: no more storm of blank login pages after accounts ban or disconnect (launch backfill clamped to queued accounts). Plus Lua Second-Quest task-list seed fix.
+note=Update no longer reopens KingSlayer mid-install (auto-restart watchdog now disarmed by both the program and the launcher), plus the account-manager blank-page-storm fix.
