@@ -1,4 +1,4 @@
-build=2026112810
-url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/koi/KOI_2026112810.zip
-sha256=480d83665624532450e626f2dfb6789b1e4780194bcfaefe02e35cbf3eb863fc
-note=Each client page gets a "Lets fire it up" switch, plus the game's own ping and fps.
+build=2026112811
+url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/koi/KOI_2026112811.zip
+sha256=37a656afd531cb5668a1bd3ca33701fa5d3591406fd0a1dd620530543c1bf5eb
+note=The "Lets fire it up" switch is bigger and coloured, and a page now shows whether the client is already switched on.
