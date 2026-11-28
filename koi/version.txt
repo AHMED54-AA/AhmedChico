@@ -1,4 +1,4 @@
-build=2026112707
-url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/koi/KOI_2026112707.zip
-sha256=d82b01525e93d90b719fb9368ee36b4e090b2c6c09a2eec0884460ac06c64cb4
-note=Both game-clock kinds now start claiming at the same moment, 1 s before the minute.
+build=2026112810
+url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/koi/KOI_2026112810.zip
+sha256=480d83665624532450e626f2dfb6789b1e4780194bcfaefe02e35cbf3eb863fc
+note=Each client page gets a "Lets fire it up" switch, plus the game's own ping and fps.
