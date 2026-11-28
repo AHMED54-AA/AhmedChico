@@ -1,7 +1,7 @@
-ks_build=2026112804
-ks_url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/bot/KingSlayer_2026112804.zip
-ks_sha256=4e5e5e50b2d64854a18b3353315ad9f300b8c9b7c52ce0d05368ef8326ed10e9
-ks_exe_sha256=4c068e51156de099b9656c46263610c89622bea4b9ca6b7f7b1da3b7f9cc80cb
+ks_build=2026112805
+ks_url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/bot/KingSlayer_2026112805.zip
+ks_sha256=bc976e9be117b6e5dbb2b1107d7e52fa2eb091c50d2e13bb0afc4d6b3891d033
+ks_exe_sha256=d992851f964060765c7f80bb4d3ef0b68ef62ebc6c34086990cf31def6965961
 cq_build=2026112801
 cq_url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/bot/Conquer_2026112801.zip
 cq_sha256=3266106b6d10315726103430f8609dee160d521934589604e7d8eed71b9cd3d8
@@ -9,4 +9,4 @@ cq_exe_sha256=a625d98ed09e8529736ad6ca2a1b49ce2f65bae73e228b8490c9bdc8c71113be
 setup_build=2026112804
 setup_url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/bot/Bot_Setup_2026112804.exe
 setup_sha256=ca5b258dea3077682645f5da32b7121cbaffb8890cf7328e3d50a6f81085be00
-note=Two stalls fixed: classic leveling follows the NPC the server names (it stood still at task 14004 talking to the wrong one), and Start works on the first press - a page that attached before it was bound stayed empty and kept its account queued.
+note=A pool of its own for the leveling accounts, with a list that shows which finished, which were banned and which are gone - and the program now checks for an update every 20 minutes instead of only at startup.
