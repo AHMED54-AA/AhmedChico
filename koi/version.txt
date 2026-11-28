@@ -1,4 +1,4 @@
-build=2026112812
-url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/koi/KOI_2026112812.zip
-sha256=de52f39bb845a834a13d573660ad58f1a79561c32d0ec2b5d39e8a6426d3e44e
-note=A "Fire up all" switch on the top bar next to Send all turns every page on at once.
+build=2026112813
+url=https://raw.githubusercontent.com/AHMED54-AA/AhmedChico/main/koi/KOI_2026112813.zip
+sha256=6febb882aaa3010f5395981ce33ee5b58e4c8fd101c1c75caa4d1cceec12c1ef
+note=The window is wider so Results no longer sits on top of the clock.
